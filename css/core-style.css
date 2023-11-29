@@ -1254,4 +1254,5 @@ span.accor-open {
         opacity: 0;
         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     }
+}.href {
 }
